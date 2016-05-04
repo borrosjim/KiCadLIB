@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R
+D Resistencia estandar
+$ENDCMP
+#
+$CMP V250LA4P
+D Varistor
+K Varistor
+$ENDCMP
+#
+#End Doc Library

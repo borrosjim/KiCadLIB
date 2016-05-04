@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal
+D Cristal de cuarzo 2 pines
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+#End Doc Library

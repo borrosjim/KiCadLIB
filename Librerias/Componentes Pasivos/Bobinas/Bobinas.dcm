@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1:1
+D Transformador de aislamiento 1:1
+K transformador
+F https://www.bourns.com/pdfs/SMLP5001.pdf
+$ENDCMP
+#
+$CMP L
+D Inductor estandar
+K inductor
+$ENDCMP
+#
+#End Doc Library

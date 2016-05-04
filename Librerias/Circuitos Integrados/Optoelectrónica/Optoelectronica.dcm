@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP292
+D SO4, AC/DC Optocoupler, Vce 80V, CTR 50-100%
+K NPN AC DC Optocoupler
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=14425&prodName=TLP292
+$ENDCMP
+#
+#End Doc Library

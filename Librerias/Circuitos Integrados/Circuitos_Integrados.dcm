@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDA5051AT
+D Home Automation modem PLC @5Vdc
+K PLC modem transceiver
+F http://www.nxp.com/documents/data_sheet/TDA5051A.pdf
+$ENDCMP
+#
+#End Doc Library

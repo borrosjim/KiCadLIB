@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTVSXS1UR
+D 400W Unidirectional Transient Voltage Suppressor
+K TVS Zener
+$ENDCMP
+#
+#End Doc Library
